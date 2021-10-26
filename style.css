@@ -44,3 +44,6 @@
    #rightcol { /* Правая колонка */
    margin-left: 220px; /* Отступ слева */
   }
+  #max {
+    max-width: 100%
+  }
